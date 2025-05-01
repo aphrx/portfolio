@@ -40,7 +40,7 @@ export const PROJECTS: Project[] = [
   {
     name: 'Alphion',
     description: 'The only fitness app you\'ll need to achieve your goals!',
-    link: 'https://motion-primitives.com/',
+    link: 'https://github.com/aphrx/alphion',
     video:
       'https://res.cloudinary.com/drgtt3xac/video/upload/v1746069083/alphion_p11umk.mp4?_a=DATAdtAAZAA0',
     id: 'project2',
