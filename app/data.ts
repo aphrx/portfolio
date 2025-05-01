@@ -73,7 +73,7 @@ export const WORK_EXPERIENCE: WorkExperience[] = [
     id: 'work3',
   },
   {
-    company: 'University of Ontario Institute of Technology',
+    company: 'Ontario Tech University',
     title: 'Research Assistant',
     start: 'May 2019',
     end: 'Apr 2020',
