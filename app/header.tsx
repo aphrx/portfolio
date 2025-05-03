@@ -30,10 +30,8 @@ export function Header() {
           className="w-12 h-12 rounded-full overflow-hidden ring-1 ring-zinc-300 dark:ring-zinc-700"
         >
           <Image
-            src="/profile.jpg" // Make sure this image exists
+            src="/profile.jpg"
             alt="Profile"
-            width={48}
-            height={48}
             className="object-cover w-full h-full"
           />
         </button>
