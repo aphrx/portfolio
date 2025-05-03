@@ -43,7 +43,7 @@ export function Header() {
           className="fixed inset-0 z-50 flex items-center justify-center bg-black/70 backdrop-blur-sm"
         >
           <Image
-            src="/profile.jpg"
+            src="/profile.png"
             alt="Profile Enlarged"
             width={300}
             height={300}
