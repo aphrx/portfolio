@@ -49,12 +49,20 @@ export const PROJECTS: Project[] = [
 
 export const WORK_EXPERIENCE: WorkExperience[] = [
   {
+    company: 'Koyfin',
+    title: 'Senior Backend Developer',
+    start: 'June 2025',
+    end: 'Present',
+    link: 'https://koyfin.com',
+    id: 'work1',
+  },
+  {
     company: 'Analyticsmart',
     title: 'Senior Software Developer',
     start: 'Feb 2024',
-    end: 'Present',
+    end: 'May 2025',
     link: 'https://analyticsmart.com',
-    id: 'work1',
+    id: 'work2',
   },
   {
     company: 'Analyticsmart',
@@ -62,15 +70,15 @@ export const WORK_EXPERIENCE: WorkExperience[] = [
     start: 'Jul 2021',
     end: 'Feb 2024',
     link: 'https://analyticsmart.com',
-    id: 'work2',
+    id: 'work3',
   },
   {
     company: 'QA Consultants',
     title: 'Software Developer',
     start: 'May 2020',
-    end: 'Jul 2021',
+    end: 'July 2021',
     link: 'https://qaconsultants.com',
-    id: 'work3',
+    id: 'work4',
   },
   {
     company: 'Ontario Tech University',
@@ -78,7 +86,7 @@ export const WORK_EXPERIENCE: WorkExperience[] = [
     start: 'May 2019',
     end: 'Apr 2020',
     link: 'https://ontariotechu.ca/',
-    id: 'work4',
+    id: 'work5',
   },
   {
     company: 'CIBC',
@@ -86,7 +94,7 @@ export const WORK_EXPERIENCE: WorkExperience[] = [
     start: 'Jan 2018',
     end: 'Dec 2018',
     link: 'https://cibc.com',
-    id: 'work5',
+    id: 'work6',
   },
 ]
 
