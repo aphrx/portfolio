@@ -29,10 +29,10 @@ type SocialLink = {
 
 export const PROJECTS: Project[] = [
   {
-    name: 'Buzzcut',
+    name: 'Protobuzz',
     description:
       'Turn your building’s intercom into a smart buzzer system.',
-    link: 'https://buzzcut.io',
+    link: 'https://protobuzz.com',
     video:
       'https://res.cloudinary.com/drgtt3xac/video/upload/v1746067464/Product_Documentation_Video_i7c2ta.mp4?_a=DATAdtAAZAA0',
     id: 'project1',
