@@ -33,6 +33,8 @@ export function Header() {
             src="/profile.png"
             alt="Profile"
             className="object-cover w-full h-full"
+            width={192}
+            height={192}
           />
         </button>
       </header>
